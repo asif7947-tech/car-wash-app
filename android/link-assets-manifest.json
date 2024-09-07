@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/images/back.avif",
+      "sha1": "270be99b0ee8fb7c81a607c7179be68f97f38a10"
+    },
+    {
+      "path": "assets/images/background.avif",
+      "sha1": "2254dd6e8e2ea9cc1363295881deab22afab2725"
+    },
+    {
+      "path": "assets/images/background2.avif",
+      "sha1": "0dd1fe5dd9b61ef5caadedc50182ea55a0aad589"
+    }
+  ]
+}
